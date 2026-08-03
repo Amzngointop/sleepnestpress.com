@@ -25,7 +25,7 @@ export const articles: Article[] = [
     metaDescription:
       "Our complete 2026 guide to the best pillows for side, back, stomach, and combination sleepers, with picks for cooling, neck support, and adjustable loft.",
     minutesToRead: 12,
-    productCount: 10,
+    productCount: 19,
   },
   {
     slug: "best-weighted-cooling-blankets",
@@ -38,7 +38,7 @@ export const articles: Article[] = [
     metaDescription:
       "We review the best weighted and cooling blankets of 2026 for deeper sleep, including options for hot sleepers and those seeking gentle pressure therapy.",
     minutesToRead: 11,
-    productCount: 8,
+    productCount: 10,
   },
   {
     slug: "best-sleep-masks-earplugs",
@@ -51,7 +51,7 @@ export const articles: Article[] = [
     metaDescription:
       "Find the best sleep masks and earplugs of 2026, including contoured blackout masks, silk eye masks, and Bluetooth sleep headphones for total darkness and quiet.",
     minutesToRead: 10,
-    productCount: 8,
+    productCount: 12,
   },
   {
     slug: "best-bed-sheets-bedding-sets",

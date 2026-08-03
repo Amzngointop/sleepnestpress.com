@@ -76,6 +76,24 @@ const affiliateLinks: Record<string, string> = {
   B0738B8SQS: "https://www.amazon.com/Bedsure-Mattress-Twin-Extra-Hypoallergenic/dp/B0738B8SQS?th=1&linkCode=ll2&tag=sleepnestpres-20&linkId=796bd2268c0df5ddcf6db24f1994cae6&language=en_US&ref_=as_li_ss_tl",
   B08KNXHJSK: "https://www.amazon.com/MATBEBY-Mattress-Breathable-Stretches-Protector/dp/B08KNXHJSK?th=1&linkCode=ll2&tag=sleepnestpres-20&linkId=5972f6bb4edd4f432b70d4dbd3308fed&language=en_US&ref_=as_li_ss_tl",
   B0BYNPPW8V: "https://www.amazon.com/SameBed-Mattress-Protector-Overfilled-Alternative/dp/B0BYNPPW8V?th=1&linkCode=ll2&tag=sleepnestpres-20&linkId=2de442ed644b3e973a210fd92aa4245d&language=en_US&ref_=as_li_ss_tl",
+  // Pillows (batch 2)
+  B0DCTNQ1BB: "https://www.amazon.com/HKYLRAN-Pillows-Sleeping-Adjustable-Alternative/dp/B0DCTNQ1BB?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=01a90bfe47f37934ac592a8b8ba7e23a&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0CHJDDBLJ: "https://www.amazon.com/Vorouhals-Collection-Sleeping-Alternative-Microfiber/dp/B0CHJDDBLJ?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=285e9c5a4b9534a9180ed55f815ee40d&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B09ZKFK4JD: "https://www.amazon.com/DreamyBlue-Signature-Adjustable-Shredded-Memory/dp/B09ZKFK4JD?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=365741b6931151cfb02dcd6316fb242f&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0FMZR57S6: "https://www.amazon.com/Mellow-Cloud-Alignment-Pillow-Adjustable/dp/B0FMZR57S6?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=7c25757fed89dbc64eeeee8c4515e7bb&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B07TMKXZQT: "https://www.amazon.com/Pillows-Sleeping-Adjustable-Shredded-Hypoallergenic/dp/B07TMKXZQT?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=69ee0c66e85c78abedae332483f64374&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0D6R9LGBF: "https://www.amazon.com/HUXMEYSON-Standard-Alternative-Sleeping%EF%BC%8CStandard-Sleepers/dp/B0D6R9LGBF?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=8eb5d3ae5500afbaa97f6d4834492501&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B07LCKK117: "https://www.amazon.com/JOLLYVOGUE-Sleeping-Hypoallergenic-Sleeping-Alternative-Fill-Standard/dp/B07LCKK117?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=e368b50965e6e4c0ade2c019ad0dab39&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0DPMS4MWR: "https://www.amazon.com/Sasttie-Queen-Pillows-Stomach-Sleepers/dp/B0DPMS4MWR?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=94563977ba42b86f61e6e2045cfd1e11&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0D8KLNGKS: "https://www.amazon.com/JOLLYVOGUE-Pillows-Queen-Size-Bed/dp/B0D8KLNGKS?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=67b049e8a3e28d165ade6536bcdacc0d&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  // Blankets (batch 2)
+  B0GF7X4R2C: "https://www.amazon.com/Cooling-Blanket-Blankets-Sleepers-Absorbs/dp/B0GF7X4R2C?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=a1c8047a016f471fea23688d2b10b5c4&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0DR8CHFKV: "https://www.amazon.com/inhand-Cooling-Blankets-Sleepers-Lightweight/dp/B0DR8CHFKV?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=26f449e10dea3d8dbeab97532418c671&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  // Sleep masks (batch 2)
+  B07Q6WLX5J: "https://www.amazon.com/Sleeping-Contoured-Blindfold-Concave-Meditation/dp/B07Q6WLX5J?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=86b2557f783cce1fa85547725b18b9c5&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B09XTVHMQ1: "https://www.amazon.com/Sleeping-Contoured-Pressure-Blocking-Blindfold/dp/B09XTVHMQ1?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=fe26bf9c08c91ca53e940171bfd04f8d&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B07PRG2CQY: "https://www.amazon.com/Manta-Sleep-Mask-Adjustable-Deepest-Possible/dp/B07PRG2CQY?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=2b50bfe9b0942c108a01de602942ac66&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0FSQVBQDC: "https://www.amazon.com/Vynix-Sleep-Mask-Men-Women/dp/B0FSQVBQDC?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=65c856740c713bee24f10d328e9d2c6a&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
 };
 
 export function buildAffiliateUrl(asin: string) {

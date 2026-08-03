@@ -245,6 +245,209 @@ const raw: Omit<Product, "affiliateUrl">[] = [
     bestFor: "Side sleepers dealing with shoulder pressure or neck discomfort.",
     howToUse: "Position the hollow section directly under your shoulder when lying on your side so your neck rests on the raised cervical ridge.",
   },
+  {
+    id: "p49",
+    articleSlug: "best-pillows",
+    rank: 11,
+    name: "HKYLRAN Bed Pillows King Size Set of 2, Adjustable with Zipper, Down Alternative",
+    asin: "B0DCTNQ1BB",
+    imageUrl: "https://m.media-amazon.com/images/I/61frIMD4KXL._AC_SL1500_.jpg",
+    badge: "Best Adjustable King Pick",
+    summary:
+      "A king-size pair with a zippered shell that lets you remove or add down-alternative fill to dial in your preferred loft.",
+    pros: [
+      "Zipper access makes the loft fully adjustable for each sleeper",
+      "Oeko-Tex certified materials for peace of mind",
+      "King sizing suits larger beds and sleepers who shift around",
+      "Soft, hotel-style shell fabric",
+    ],
+    cons: [
+      "Adjusting fill takes some trial and error at first",
+      "Removed fill needs to be stored somewhere if you thin them out",
+    ],
+    bestFor: "Couples with a king bed who each want a different pillow height from the same set.",
+    howToUse: "Unzip the shell and remove fill gradually — test the height lying in your usual position before taking out more.",
+  },
+  {
+    id: "p50",
+    articleSlug: "best-pillows",
+    rank: 12,
+    name: "Vorouhals Hotel Collection Bed Pillows for Sleeping, 2 Pack, Standard Size",
+    asin: "B0CHJDDBLJ",
+    imageUrl: "https://m.media-amazon.com/images/I/61qI-h3GTsL._AC_SL1500_.jpg",
+    badge: "Budget Hotel Feel",
+    summary:
+      "A soft, cooling-leaning microfiber pair that aims for the plush hotel-pillow feel at an entry-level price.",
+    pros: [
+      "Super-soft down-alternative microfiber fill",
+      "Cooling cover fabric helps warm sleepers",
+      "Works across back, stomach, and side positions",
+    ],
+    cons: [
+      "Softer feel may bottom out for heavier heads",
+      "Standard size only, with no king option in this set",
+    ],
+    bestFor: "Budget shoppers who want a plush, hotel-style pillow pair without spending much.",
+    howToUse: "Give the pillows a day to fully expand after unpacking, then fluff daily to keep the loft even.",
+  },
+  {
+    id: "p51",
+    articleSlug: "best-pillows",
+    rank: 13,
+    name: "DreamyBlue Signature Adjustable Shredded Memory Foam Pillow, Queen",
+    asin: "B09ZKFK4JD",
+    imageUrl: "https://m.media-amazon.com/images/I/61kV0vZosLL._AC_SL1500_.jpg",
+    badge: "Best Shredded Foam",
+    summary:
+      "A CertiPUR-US certified shredded memory foam pillow with a bamboo rayon cover and adjustable fill for neutral spinal alignment.",
+    pros: [
+      "Shredded foam molds to the head while staying supportive",
+      "Fill is removable to fine-tune height for any sleep position",
+      "Breathable bamboo rayon cover",
+      "Machine washable for easy upkeep",
+    ],
+    cons: [
+      "Slight foam scent on unboxing that needs airing out",
+      "Heavier than fiber-filled pillows",
+    ],
+    bestFor: "Sleepers who want memory foam contouring with control over the exact loft.",
+    howToUse: "Air out for 24 hours after unboxing, then remove fill in small handfuls until your neck feels level with your spine.",
+  },
+  {
+    id: "p52",
+    articleSlug: "best-pillows",
+    rank: 14,
+    name: "Mellow CloudAlign Memory Foam Pillow for Neck & Shoulder Support, Standard",
+    asin: "B0FMZR57S6",
+    imageUrl: "https://m.media-amazon.com/images/I/713J4XPryHL._AC_SL1500_.jpg",
+    badge: "Best Dual-Height Cervical",
+    summary:
+      "A contoured orthopedic pillow with two ridge heights, letting you pick the side that matches your neck's natural curve.",
+    pros: [
+      "Dual-height design offers two support levels in one pillow",
+      "Contoured shape cradles the neck for side and back sleeping",
+      "Washable cover keeps maintenance simple",
+    ],
+    cons: [
+      "Contoured shape takes an adjustment period",
+      "Not well suited to dedicated stomach sleepers",
+    ],
+    bestFor: "Side and back sleepers with neck or shoulder tension who want ergonomic support.",
+    howToUse: "Start with the lower ridge under your neck; switch to the taller side if your chin still tilts down toward your chest.",
+  },
+  {
+    id: "p53",
+    articleSlug: "best-pillows",
+    rank: 15,
+    name: "SUPA MODERN Cooling Pillow Queen Size Set of 2, Shredded Memory Foam",
+    asin: "B07TMKXZQT",
+    imageUrl: "https://m.media-amazon.com/images/I/71gUc3+NhAL._AC_SL1500_.jpg",
+    badge: "Best Cooling Pair",
+    summary:
+      "A two-pack of adjustable shredded memory foam pillows with cooling covers, aimed squarely at hot sleepers.",
+    pros: [
+      "Cooling cover fabric helps dissipate heat overnight",
+      "CertiPUR-US certified shredded foam fill",
+      "Adjustable fill suits side, back, and stomach sleepers",
+      "Sold as a pair for matched support on both sides of the bed",
+    ],
+    cons: [
+      "Firmer out of the box than fiber-filled alternatives",
+      "Foam needs occasional fluffing to redistribute evenly",
+    ],
+    bestFor: "Hot sleepers who want adjustable memory foam support for both sides of the bed.",
+    howToUse: "Knead and fluff the pillows after unboxing to break up compressed foam, then remove fill to taste.",
+  },
+  {
+    id: "p54",
+    articleSlug: "best-pillows",
+    rank: 16,
+    name: "HUXMEYSON Pillows Standard Size Set of 4, Down Alternative Fill",
+    asin: "B0D6R9LGBF",
+    imageUrl: "https://m.media-amazon.com/images/I/61oVz3nnlkL._AC_SL1500_.jpg",
+    badge: "Best Bulk Value",
+    summary:
+      "A four-pack of firm, Oeko-Tex certified down-alternative pillows — a practical way to outfit a whole bed or guest room at once.",
+    pros: [
+      "Four pillows in one purchase keeps the per-pillow cost low",
+      "Firm support suits side and back sleepers",
+      "Oeko-Tex certified materials",
+      "Machine washable for easy refresh",
+    ],
+    cons: [
+      "Firm feel may be too much for stomach sleepers",
+      "Bulky package takes time to fully decompress",
+    ],
+    bestFor: "Households outfitting multiple beds or a guest room on a budget.",
+    howToUse: "Let all four pillows decompress for 24-48 hours, fluffing periodically so the fill lofts evenly.",
+  },
+  {
+    id: "p55",
+    articleSlug: "best-pillows",
+    rank: 17,
+    name: "JOLLYVOGUE Pillows Standard Size Set of 2, Cooling and Firm, Hotel Collection",
+    asin: "B07LCKK117",
+    imageUrl: "https://m.media-amazon.com/images/I/61pRymTJgRL._AC_SX679_.jpg",
+    badge: "Firm Hotel Style",
+    summary:
+      "A firm, cooling-leaning standard pair with Oeko-Tex certified down-alternative fill in a classic hotel style.",
+    pros: [
+      "Firm fill keeps the head from sinking through overnight",
+      "Cooling cover fabric stays comfortable for warm sleepers",
+      "Oeko-Tex certified down-alternative filling",
+    ],
+    cons: [
+      "Too firm for sleepers who prefer a plush, sink-in feel",
+      "Standard size may look small on a king bed",
+    ],
+    bestFor: "Side and back sleepers who want firm, consistent support with a cooler surface.",
+    howToUse: "Pair with a breathable pillowcase to get the most from the cooling cover, and fluff daily to maintain shape.",
+  },
+  {
+    id: "p56",
+    articleSlug: "best-pillows",
+    rank: 18,
+    name: "Sasttie Firm Pillows Queen Size Set of 2, Down Alternative Plump Filling",
+    asin: "B0DPMS4MWR",
+    imageUrl: "https://m.media-amazon.com/images/I/61MLDfny75L._AC_SL1500_.jpg",
+    badge: "Best Firm Support",
+    summary:
+      "A plump, firm queen pair with Oeko-Tex certified fill, built for sleepers who need their pillow to hold height all night.",
+    pros: [
+      "Generously filled for firm, stable support",
+      "Oeko-Tex certified down-alternative fill",
+      "Machine washable and quick to reshape",
+      "Hotel-quality shell fabric",
+    ],
+    cons: [
+      "Too tall for most dedicated stomach sleepers",
+      "Firmness takes a few nights to soften slightly",
+    ],
+    bestFor: "Side and back sleepers whose current pillows flatten out by morning.",
+    howToUse: "Use one pillow per sleeper rather than stacking — the plump fill already provides ample loft on its own.",
+  },
+  {
+    id: "p57",
+    articleSlug: "best-pillows",
+    rank: 19,
+    name: "JOLLYVOGUE Firm Pillows Queen Size Set of 2, Luxury Hotel Quality",
+    asin: "B0D8KLNGKS",
+    imageUrl: "https://m.media-amazon.com/images/I/51AdYTd7WnL._AC_SL1500_.jpg",
+    badge: "Plush-Firm Hybrid",
+    summary:
+      "A supportive queen pair that balances a plush surface feel with a firm core, in the style of upscale hotel bedding.",
+    pros: [
+      "Firm core support with a softer surface layer",
+      "Oeko-Tex certified down-alternative fill",
+      "Queen sizing fits most beds and pillowcases",
+    ],
+    cons: [
+      "Middle-ground feel may not satisfy strong soft or firm preferences",
+      "Needs regular fluffing to keep the surface layer even",
+    ],
+    bestFor: "Sleepers who want firm support without a hard, board-like surface feel.",
+    howToUse: "Fluff each morning and rotate the pillows weekly so both wear evenly across the set.",
+  },
 
   // CATEGORY 2 — Weighted & Cooling Blankets
   {
@@ -424,6 +627,50 @@ const raw: Omit<Product, "affiliateUrl">[] = [
     bestFor: "Individual sleepers in smaller beds wanting a lighter weighted option.",
     howToUse: "Best used solo rather than shared, since the compact width is designed for single-sleeper coverage.",
   },
+  {
+    id: "p58",
+    articleSlug: "best-weighted-cooling-blankets",
+    rank: 9,
+    name: "Cooling Blanket Queen Size for Hot Sleepers, 90x90, Dark Gray",
+    asin: "B0GF7X4R2C",
+    imageUrl: "https://m.media-amazon.com/images/I/81n3rT+wF4L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    badge: "Best Ice-Cool Feel",
+    summary:
+      "A heat-absorbing cooling blanket with a noticeably cool-to-the-touch surface, sized generously at 90x90 inches for full queen coverage.",
+    pros: [
+      "Cool-touch fabric actively pulls heat away from the body",
+      "Oversized 90x90 dimensions cover the whole bed with drape to spare",
+      "Lightweight enough for hot summer nights",
+    ],
+    cons: [
+      "Provides little warmth once temperatures drop",
+      "Slick cooling fabric can slide off the bed more easily than cotton",
+    ],
+    bestFor: "Hot sleepers and night-sweat sufferers who want the coolest possible top layer.",
+    howToUse: "Use as the top layer with the cool-touch side against your skin, and wash on cold to preserve the cooling finish.",
+  },
+  {
+    id: "p59",
+    articleSlug: "best-weighted-cooling-blankets",
+    rank: 10,
+    name: "inhand Cooling Blanket Queen Size for Hot Sleepers, 90x90, Gray",
+    asin: "B0DR8CHFKV",
+    imageUrl: "https://m.media-amazon.com/images/I/81OThawpNFL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    badge: "Best Summer Throw",
+    summary:
+      "A thin, lightweight cooling blanket that absorbs body heat, made for summer nights when even a sheet feels like too much.",
+    pros: [
+      "Very thin and light, with almost no heat retention",
+      "Heat-absorbing fabric keeps the surface cool through the night",
+      "Works well on the couch as well as the bed",
+    ],
+    cons: [
+      "Too light to serve as a year-round main blanket",
+      "Minimal weight won't satisfy fans of a heavier, tucked-in feel",
+    ],
+    bestFor: "Sleepers in warm climates who want barely-there coverage that still feels cool.",
+    howToUse: "Swap it in as your only top layer during summer, and store your heavier blanket until the season turns.",
+  },
 
   // CATEGORY 3 — Sleep Masks & Earplugs
   {
@@ -601,6 +848,94 @@ const raw: Omit<Product, "affiliateUrl">[] = [
     ],
     bestFor: "Sleepers who fall asleep faster with music, podcasts, or white noise.",
     howToUse: "Charge fully before first use, pair via Bluetooth, and keep volume low enough to drift off comfortably.",
+  },
+  {
+    id: "p60",
+    articleSlug: "best-sleep-masks-earplugs",
+    rank: 9,
+    name: "YIVIEW Sleep Mask for Side Sleeper, 3D Zero Pressure Blindfold",
+    asin: "B07Q6WLX5J",
+    imageUrl: "https://m.media-amazon.com/images/I/71HeXoaToNL._AC_SL1500_.jpg",
+    badge: "Side-Sleep Comfort",
+    summary:
+      "A contoured 3D mask with zero-pressure eye cups and a soft, breathable build that stays comfortable when your face is on the pillow.",
+    pros: [
+      "Deep eye cups avoid any pressure on the eyes or lashes",
+      "Soft, breathable material stays comfortable against the pillow",
+      "Adjustable strap fits a wide range of head sizes",
+    ],
+    cons: [
+      "Bulkier profile than a flat silk mask",
+      "Light can leak at the nose bridge if the fit isn't dialed in",
+    ],
+    bestFor: "Side sleepers who find flat masks press into their eyes when facing the pillow.",
+    howToUse: "Adjust the strap so the mask sits snug but not tight, and mold the nose area to close any light gap.",
+  },
+  {
+    id: "p61",
+    articleSlug: "best-sleep-masks-earplugs",
+    rank: 10,
+    name: "MABAO Sleep Mask for Side Sleeper, 3D Contoured 100% Light Blocking",
+    asin: "B09XTVHMQ1",
+    imageUrl: "https://m.media-amazon.com/images/I/816U06Gxm4L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+    badge: "Best Blackout Contour",
+    summary:
+      "A 3D contoured-cup mask focused on complete light blocking, with an adjustable strap and no pressure on the eyes.",
+    pros: [
+      "Contoured cups create a full blackout seal",
+      "No eye pressure, so blinking is unrestricted",
+      "Adjustable strap holds position through the night",
+    ],
+    cons: [
+      "Takes a night or two to find the right strap tension",
+      "Cupped shape makes it bulkier to pack than flat masks",
+    ],
+    bestFor: "Light-sensitive sleepers who need true darkness in a bright bedroom or while traveling.",
+    howToUse: "Seat the nose contour first, then tighten the strap just until no light enters when you look toward a lamp.",
+  },
+  {
+    id: "p62",
+    articleSlug: "best-sleep-masks-earplugs",
+    rank: 11,
+    name: "Manta Original Sleep Mask with Detachable Eye Cups",
+    asin: "B07PRG2CQY",
+    imageUrl: "https://m.media-amazon.com/images/I/91j-EDBgLGL._AC_SL1500_.jpg",
+    badge: "Best Premium Pick",
+    summary:
+      "A premium modular mask with repositionable, detachable eye cups that let you fine-tune the blackout seal to your face shape.",
+    pros: [
+      "Detachable cups adjust to your exact eye spacing for a custom fit",
+      "Maximum blackout with zero eye pressure",
+      "Durable build quality suited to daily and travel use",
+    ],
+    cons: [
+      "Costs noticeably more than basic contoured masks",
+      "Micro-adjusting the cups takes some initial setup",
+    ],
+    bestFor: "Shift workers and daytime sleepers who need total, reliable blackout every time.",
+    howToUse: "Reposition each eye cup on the hook-and-loop base until the seal is complete, then leave them set for future nights.",
+  },
+  {
+    id: "p63",
+    articleSlug: "best-sleep-masks-earplugs",
+    rank: 12,
+    name: "Vynix Sleep Mask, 100% Blackout 3D Eye Mask for Side Sleepers",
+    asin: "B0FSQVBQDC",
+    imageUrl: "https://m.media-amazon.com/images/I/81l5HaqK2gL._AC_SL1500_.jpg",
+    badge: "Best for Lash Wearers",
+    summary:
+      "A soft 3D blackout mask with extra-deep, zero-pressure cups that leave room for lash extensions while sealing out light.",
+    pros: [
+      "Deep cups protect lash extensions from crushing",
+      "Full blackout coverage for home or airplane use",
+      "Soft shell stays comfortable for side sleeping",
+    ],
+    cons: [
+      "Larger cups may fit small faces loosely",
+      "Hand washing is recommended to keep the shape",
+    ],
+    bestFor: "Sleepers with lash extensions — or anyone who wants generous eye clearance in a blackout mask.",
+    howToUse: "Center the cups over your eyes before tightening the strap so the deep pockets keep clear of your lashes.",
   },
 
   // CATEGORY 4 — Bed Sheets & Bedding Sets
