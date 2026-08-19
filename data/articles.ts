@@ -64,7 +64,7 @@ export const articles: Article[] = [
     metaDescription:
       "Our 2026 roundup of the best bed sheets and bedding sets, from breathable microfiber sheet sets to full bed-in-a-bag comforter collections.",
     minutesToRead: 13,
-    productCount: 12,
+    productCount: 20,
   },
   {
     slug: "best-mattress-protectors-toppers",
@@ -77,7 +77,7 @@ export const articles: Article[] = [
     metaDescription:
       "We compare the best mattress protectors and toppers of 2026 for waterproofing, cooling, and added plushness across every mattress size.",
     minutesToRead: 12,
-    productCount: 10,
+    productCount: 14,
   },
 ];
 

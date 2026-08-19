@@ -94,6 +94,20 @@ const affiliateLinks: Record<string, string> = {
   B09XTVHMQ1: "https://www.amazon.com/Sleeping-Contoured-Pressure-Blocking-Blindfold/dp/B09XTVHMQ1?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=fe26bf9c08c91ca53e940171bfd04f8d&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
   B07PRG2CQY: "https://www.amazon.com/Manta-Sleep-Mask-Adjustable-Deepest-Possible/dp/B07PRG2CQY?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=2b50bfe9b0942c108a01de602942ac66&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
   B0FSQVBQDC: "https://www.amazon.com/Vynix-Sleep-Mask-Men-Women/dp/B0FSQVBQDC?th=1&linkCode=ll2&tag=sleepnestpres2-20&linkId=65c856740c713bee24f10d328e9d2c6a&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  // Sheets & comforters (batch 3)
+  B0C5398TC4: "https://www.amazon.com/CozyLux-Comforter-Breathable-Microfiber-Pillowcases/dp/B0C5398TC4?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=cd0299e55381ed4027e3d7558590a156&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0CXCYXP18: "https://www.amazon.com/HEVUMYI-Comforter-Bedding-Alternative-Pillowcase/dp/B0CXCYXP18?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=f1c2e6600451e9db7283c809f6e15e1e&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0B7JRZ6LX: "https://www.amazon.com/BEDELITE-Fleece-Comforter-Super-Bedding/dp/B0B7JRZ6LX?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=3a1a9d2ab8c156d737e721fe3b8978fb&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0CN35M4F4: "https://www.amazon.com/JOLLYVOGUE-Queen-Comforter-Set-Alternative/dp/B0CN35M4F4?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=4fc8a8c619976799d9dd470566367ad6&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0BC93XFCZ: "https://www.amazon.com/Loves-cabin-Comforter-Bedding-Pillowcase/dp/B0BC93XFCZ?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=a7f603531af19f72b1a0967c1d434097&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B08CRNCJFC: "https://www.amazon.com/CozyLux-Seersucker-Comforter-Bedding-Pillowcase/dp/B08CRNCJFC?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=8679cce07c7da7be32397ece2a77ff52&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0D25Y5QPD: "https://www.amazon.com/CozyLux-Queen-Comforter-Set-Lightweight/dp/B0D25Y5QPD?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=c3cc5dc79183bf3a666b057b63555f91&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B0DX75YHHS: "https://www.amazon.com/Sasttie-Comforter-7-Piece-Pillowcases-Pillowshams/dp/B0DX75YHHS?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=90caa4be4639ff9239f735b20da86a1c&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  // Mattress pads & toppers (batch 3)
+  B00NESCOY0: "https://www.amazon.com/Utopia-Bedding-Quilted-Fitted-Mattress/dp/B00NESCOY0?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=3f42b9f85dec9ae0a26ce1e948a7367f&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B073ZY6XH3: "https://www.amazon.com/EASELAND-Mattress-Mattress-Stretches-Alternative/dp/B073ZY6XH3?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=7456c581a88a5b0d658a720f023aadb0&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B076DK5WW1: "https://www.amazon.com/Quilted-Fitted-Mattress-Stretch-Fit/dp/B076DK5WW1?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=8f2317c8fd5bed5ea1cdbd6f572a5192&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+  B01KBKHYHA: "https://www.amazon.com/AmazonBasics-Hypoallergenic-Quilted-Mattress-Topper/dp/B01KBKHYHA?th=1&linkCode=ll2&tag=sleepnestpres3-20&linkId=2c4a5dc94d57d273b958425096950933&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
 };
 
 export function buildAffiliateUrl(asin: string) {

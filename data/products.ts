@@ -1203,6 +1203,182 @@ const raw: Omit<Product, "affiliateUrl">[] = [
     bestFor: "First-time bedroom shoppers who want everything included in a single box.",
     howToUse: "Lay out all seven pieces before assembly to confirm sham and pillowcase pairings match your pillow sizes.",
   },
+  {
+    id: "p64",
+    articleSlug: "best-bed-sheets-bedding-sets",
+    rank: 13,
+    name: "CozyLux Queen Comforter Set, 3 Pieces Down Alternative Bedding, Black",
+    asin: "B0C5398TC4",
+    imageUrl: "https://m.media-amazon.com/images/I/71YmqntoATL._AC_SL1500_.jpg",
+    badge: "Sleek Minimalist Pick",
+    summary:
+      "A simple three-piece down-alternative comforter set in black — a clean, understated look for sleepers who don't need a full bed-in-a-bag.",
+    pros: [
+      "Breathable microfiber shell with a soft down-alternative fill",
+      "Black colorway hides wear and matches most bedroom palettes",
+      "Includes two matching pillowcases for a coordinated look",
+    ],
+    cons: [
+      "No sheets included, unlike full bed-in-a-bag sets",
+      "Dark fabric shows lint and pet hair more readily",
+    ],
+    bestFor: "Sleepers who already own sheets and just want a comforter with matching shams.",
+    howToUse: "Shake the comforter out after unboxing and tumble dry on low with dryer balls to restore full loft.",
+  },
+  {
+    id: "p65",
+    articleSlug: "best-bed-sheets-bedding-sets",
+    rank: 14,
+    name: "HEVUMYI 5-Piece Twin XL Comforter Set, Dark Gray",
+    asin: "B0CXCYXP18",
+    imageUrl: "https://m.media-amazon.com/images/I/816UXElzggL._AC_SL1500_.jpg",
+    badge: "Best for Dorms",
+    summary:
+      "A five-piece twin XL set sized for dorm and guest beds, bundling a down-alternative comforter with the essentials in one box.",
+    pros: [
+      "Twin XL sizing fits standard dorm mattresses",
+      "Five pieces cover the bed without separate purchases",
+      "Neutral dark gray hides everyday wear",
+    ],
+    cons: [
+      "Twin XL focus limits use on larger beds later",
+      "Fill is lighter than dedicated winter comforters",
+    ],
+    bestFor: "Students and guest rooms needing a complete twin XL setup in one purchase.",
+    howToUse: "Wash the set once before first use, then make the bed starting with the fitted sheet and layer up.",
+  },
+  {
+    id: "p66",
+    articleSlug: "best-bed-sheets-bedding-sets",
+    rank: 15,
+    name: "BEDELITE Fleece Queen Comforter Set, Fluffy Bed Set, Cream White",
+    asin: "B0B7JRZ6LX",
+    imageUrl: "https://m.media-amazon.com/images/I/71pudUiBJeL._AC_SL1500_.jpg",
+    badge: "Coziest Texture",
+    summary:
+      "A plush fleece comforter set with a cloud-like, fluffy surface that leans into warmth and softness over a crisp hotel look.",
+    pros: [
+      "Ultra-soft fleece face feels instantly cozy",
+      "Cream colorway brightens up darker bedrooms",
+      "Warm without being as heavy as a duvet-and-insert combo",
+    ],
+    cons: [
+      "Fleece runs warm for hot sleepers in summer",
+      "Plush pile can flatten slightly over repeated washes",
+    ],
+    bestFor: "Cold sleepers who prioritize a soft, fluffy feel over a tailored look.",
+    howToUse: "Wash cold on gentle and tumble dry low — high heat is the main thing that mats down fleece pile.",
+  },
+  {
+    id: "p67",
+    articleSlug: "best-bed-sheets-bedding-sets",
+    rank: 16,
+    name: "JOLLYVOGUE Queen Comforter Set, 7-Piece Bed in a Bag, Black",
+    asin: "B0CN35M4F4",
+    imageUrl: "https://m.media-amazon.com/images/I/71tpmaPRyzL._AC_SL1500_.jpg",
+    badge: "Best Certified Set",
+    summary:
+      "An Oeko-Tex certified seven-piece bed in a bag with comforter, sheets, pillowcases, and shams for a complete one-box setup.",
+    pros: [
+      "Oeko-Tex certification covers the whole set",
+      "All seven pieces coordinate out of the box",
+      "Down-alternative comforter suits year-round use",
+    ],
+    cons: [
+      "Included sheets are thinner than premium standalone sets",
+      "Black shows lint and requires more frequent lint-rolling",
+    ],
+    bestFor: "Shoppers who want a certified, complete bedding refresh in a single order.",
+    howToUse: "Wash the whole set together before first use so all pieces shed excess dye and soften evenly.",
+  },
+  {
+    id: "p68",
+    articleSlug: "best-bed-sheets-bedding-sets",
+    rank: 17,
+    name: "Love's cabin King Size Comforter Set, 7 Pieces Bed in a Bag, Black",
+    asin: "B0BC93XFCZ",
+    imageUrl: "https://m.media-amazon.com/images/I/71hrJcCLbKL._AC_SL1500_.jpg",
+    badge: "Best King Bundle",
+    summary:
+      "A king-size seven-piece bed in a bag covering comforter, flat and fitted sheets, pillowcases, and shams for larger beds.",
+    pros: [
+      "Full king setup in one purchase",
+      "All-season comforter weight works year-round",
+      "Matching shams and pillowcases give a finished look",
+    ],
+    cons: [
+      "King pieces are bulky to wash in smaller home machines",
+      "Sheet fabric is serviceable rather than luxurious",
+    ],
+    bestFor: "King-bed owners who want the entire bed dressed from a single box.",
+    howToUse: "Check your washer capacity before laundry day — the king comforter may need a large-capacity machine.",
+  },
+  {
+    id: "p69",
+    articleSlug: "best-bed-sheets-bedding-sets",
+    rank: 18,
+    name: "CozyLux Queen Comforter Set, 7 Pieces White Seersucker Bed in a Bag",
+    asin: "B08CRNCJFC",
+    imageUrl: "https://m.media-amazon.com/images/I/81xcL-Lv2mL._AC_SL1500_.jpg",
+    badge: "Best Textured Look",
+    summary:
+      "A white seersucker seven-piece set whose puckered texture adds visual depth without patterns, while hiding wrinkles well.",
+    pros: [
+      "Seersucker texture disguises wrinkles between washes",
+      "Bright white works with any accent colors",
+      "Complete seven-piece set with sheets included",
+    ],
+    cons: [
+      "White requires more frequent washing to stay crisp",
+      "Textured surface isn't for fans of a smooth, flat finish",
+    ],
+    bestFor: "Fans of the bright, airy hotel look who don't want to iron bedding.",
+    howToUse: "Wash whites separately with a gentle detergent, and skip fabric softener to keep the pucker crisp.",
+  },
+  {
+    id: "p70",
+    articleSlug: "best-bed-sheets-bedding-sets",
+    rank: 19,
+    name: "CozyLux Queen Comforter Set, 3-Piece Box-Stitched, Black",
+    asin: "B0D25Y5QPD",
+    imageUrl: "https://m.media-amazon.com/images/I/71U0aOqqSfL._AC_SL1500_.jpg",
+    badge: "Best Lightweight Comforter",
+    summary:
+      "A lightweight box-stitched three-piece comforter set whose quilting keeps the fill evenly distributed night after night.",
+    pros: [
+      "Box stitching stops the fill from shifting or clumping",
+      "Light weight suits warm sleepers and mild climates",
+      "Simple three-piece format for those who own sheets",
+    ],
+    cons: [
+      "Too light on its own for cold winter bedrooms",
+      "No sheets or shams included",
+    ],
+    bestFor: "Warm sleepers who want an even, lightweight comforter with matching pillowcases.",
+    howToUse: "Layer over a blanket in winter or use alone in summer — the light fill is built for stacking.",
+  },
+  {
+    id: "p71",
+    articleSlug: "best-bed-sheets-bedding-sets",
+    rank: 20,
+    name: "Sasttie Queen Comforter Set, 7-Piece Pintuck Bed in a Bag, Beige",
+    asin: "B0DX75YHHS",
+    imageUrl: "https://m.media-amazon.com/images/I/81Vgg0bz+4L._AC_SL1500_.jpg",
+    badge: "Best Pintuck Style",
+    summary:
+      "A beige pintuck seven-piece bed in a bag whose pleated texture reads more expensive than its price, with all-season weight.",
+    pros: [
+      "Pintuck pleating adds a tailored, upscale look",
+      "Neutral beige suits nearly any bedroom style",
+      "All-season comforter plus full sheet set included",
+    ],
+    cons: [
+      "Pintuck seams need gentler washing to hold their shape",
+      "Beige shows stains sooner than darker sets",
+    ],
+    bestFor: "Style-conscious shoppers who want a designer look from a budget bed in a bag.",
+    howToUse: "Wash cold on gentle and dry on low so the pintuck pleats keep their structure.",
+  },
 
   // CATEGORY 5 — Mattress Protectors & Toppers
   {
@@ -1424,6 +1600,94 @@ const raw: Omit<Product, "affiliateUrl">[] = [
     ],
     bestFor: "Sleepers with a firm mattress who want maximum added plushness.",
     howToUse: "Let the topper fully decompress for a day or two after unboxing, and use extra-deep fitted sheets to accommodate the height.",
+  },
+  {
+    id: "p72",
+    articleSlug: "best-mattress-protectors-toppers",
+    rank: 11,
+    name: "Utopia Bedding Quilted Fitted Mattress Pad, Queen, White",
+    asin: "B00NESCOY0",
+    imageUrl: "https://m.media-amazon.com/images/I/81UurBbL77L._AC_SL1500_.jpg",
+    badge: "Best Value Pad",
+    summary:
+      "A quilted fitted mattress pad with deep pockets stretching to 16 inches, adding a soft protective layer at a budget price.",
+    pros: [
+      "Deep pockets stretch to fit mattresses up to 16 inches",
+      "Quilted top adds a light cushioning layer",
+      "Machine washable for easy regular care",
+    ],
+    cons: [
+      "Not waterproof, so it won't stop spills reaching the mattress",
+      "Thin padding won't change the feel of a too-firm mattress",
+    ],
+    bestFor: "Budget shoppers who want basic mattress protection with a touch of added softness.",
+    howToUse: "Fit it like a fitted sheet with the quilted side up, and wash it monthly along with your bedding rotation.",
+  },
+  {
+    id: "p73",
+    articleSlug: "best-mattress-protectors-toppers",
+    rank: 12,
+    name: "EASELAND Queen Size Mattress Pad, Cotton Pillow Top Mattress Topper, White",
+    asin: "B073ZY6XH3",
+    imageUrl: "https://m.media-amazon.com/images/I/61+GRc9EwgL._AC_SL1500_.jpg",
+    badge: "Best Pillow-Top Feel",
+    summary:
+      "A cotton-top pillow-style mattress pad that adds a plush cushioning layer, softening firm mattresses noticeably.",
+    pros: [
+      "Pillow-top fill adds real plushness, not just protection",
+      "Breathable cotton surface sleeps cooler than polyester tops",
+      "Elastic skirt grips a wide range of mattress depths",
+    ],
+    cons: [
+      "Bulkier to wash than thin quilted pads",
+      "Fill can shift slightly and needs occasional smoothing",
+    ],
+    bestFor: "Sleepers whose mattress feels too firm but who aren't ready to replace it.",
+    howToUse: "Shake the pad out and smooth the fill flat each time you change your sheets to keep the cushioning even.",
+  },
+  {
+    id: "p74",
+    articleSlug: "best-mattress-protectors-toppers",
+    rank: 13,
+    name: "Bare Home Quilted Twin XL Mattress Pad",
+    asin: "B076DK5WW1",
+    imageUrl: "https://m.media-amazon.com/images/I/61Cdw2aj-oL._AC_SL1200_.jpg",
+    badge: "Best Twin XL Pad",
+    summary:
+      "A stretch-fit quilted pad sized for twin XL beds, a practical match for dorm rooms and adjustable split-king setups.",
+    pros: [
+      "Twin XL sizing fits dorm beds and split-king halves",
+      "Stretch-fit skirt stays put on adjustable bases",
+      "Quilted surface adds light, even cushioning",
+    ],
+    cons: [
+      "Only a light comfort layer, not a thick topper",
+      "Limited color options",
+    ],
+    bestFor: "Dorm rooms and split-king adjustable beds needing a fitted twin XL pad.",
+    howToUse: "On adjustable bases, refit the corners after major position changes so the pad stays smooth.",
+  },
+  {
+    id: "p75",
+    articleSlug: "best-mattress-protectors-toppers",
+    rank: 14,
+    name: "Amazon Basics Hypoallergenic Quilted Mattress Topper Pad, Twin XL, White",
+    asin: "B01KBKHYHA",
+    imageUrl: "https://m.media-amazon.com/images/I/71JVDWhvG6S._AC_SL1500_.jpg",
+    badge: "Best Hypoallergenic Pad",
+    summary:
+      "A breathable, hypoallergenic quilted topper pad with 18-inch-deep pockets, built for sensitive sleepers on a budget.",
+    pros: [
+      "Hypoallergenic materials suit allergy-prone sleepers",
+      "Deep 18-inch pockets fit thick mattresses",
+      "Breathable quilted construction resists heat buildup",
+    ],
+    cons: [
+      "Modest padding compared to pillow-top style pads",
+      "White surface shows stains without a protector underneath",
+    ],
+    bestFor: "Allergy-sensitive sleepers who want a breathable protective layer on a thick mattress.",
+    howToUse: "Wash in warm water on a regular cycle every few weeks to keep allergens from accumulating.",
   },
 ];
 
